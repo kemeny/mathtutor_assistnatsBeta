@@ -23,7 +23,7 @@ Follow these steps to set up the application:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/math-tutor-assistant.git
+   git clone https://github.com/kemeny/mathtutor_assistnatsBeta
    cd math-tutor-assistant
    ```
 
@@ -60,9 +60,4 @@ If the application encounters any errors, such as an invalid API key or loss of 
 ## Support
 For questions, issues, or feature requests, please file an issue through the GitHub repository issue tracker.
 
-## License
-Include your license information here.
-
 ---
-
-Enjoy using the Math Tutor Assistant to enhance your math learning and problem-solving experience!
