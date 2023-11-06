@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 # Initialize the environment variables and OpenAI API client
 load_dotenv()
 #openai.api_key = os.getenv("OPENAI_API_KEY")
-os.environ.openai.api_key = st.secrets['openai']["OPENAI_API_KEY"]
+os.environ["OPENAI_API_KEY"] = st.secrets['openai']["OPENAI_API_KEY"]
 
 # Set up the Streamlit UI with a chat-style interface
 st.title('Math Tutor Assistant')
